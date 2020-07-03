@@ -1,2 +1,5 @@
 This is first line - master.
 This is second line - child.
+
+03/07/2020 
+This line is added in child1
